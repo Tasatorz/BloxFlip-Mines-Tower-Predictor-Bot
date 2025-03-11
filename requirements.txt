@@ -1,0 +1,3 @@
+cloudscraper
+discord-py-interactions
+requests
